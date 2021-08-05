@@ -1,2 +1,2 @@
 # DevOps14Winter
-#this repo is for learning purposes
+This repo is for learning purposes
